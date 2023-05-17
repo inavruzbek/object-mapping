@@ -1,0 +1,5 @@
+com/ivoyant/object/mapping/ObjectMappingApplication.class
+com/ivoyant/object/mapping/dto/PersonDTO.class
+com/ivoyant/object/mapping/service/PersonService.class
+com/ivoyant/object/mapping/entity/Person.class
+com/ivoyant/object/mapping/controller/PersonController.class
